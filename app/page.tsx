@@ -231,7 +231,7 @@ Best regards,`
       <nav className="fixed top-0 w-full bg-white/90 backdrop-blur-md z-50 border-b">
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
-            <h1 className="text-2xl font-bold text-pink-600">Sarah's Portfolio</h1>
+            <h1 className="text-2xl font-bold text-pink-600">Kutie's Portfolio</h1>
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex space-x-6">
@@ -349,7 +349,7 @@ Best regards,`
               />
             </div>
             <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-4 animate-fade-in-up">
-              Hey, I'm <span className="text-pink-600">Sarah</span>
+              Hey, I'm <span className="text-pink-600">Kutie</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 animate-fade-in-up">
               Social Media Manager & Content Creator
